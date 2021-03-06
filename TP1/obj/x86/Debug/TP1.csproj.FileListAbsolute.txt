@@ -1,0 +1,14 @@
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\bin\x86\Debug\TP1.exe.config
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\bin\x86\Debug\TP1.exe
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\bin\x86\Debug\TP1.pdb
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.csprojAssemblyReference.cache
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.Form1.resources
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.FormAllProducts.resources
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.MainMenu.resources
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.csproj.GenerateResource.cache
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.csproj.CoreCompileInputs.cache
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.exe
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.pdb
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.FormDetailBarang.resources
+D:\FAJAR\Code\PBO\Praktikum\TP1\TP1\obj\x86\Debug\TP1.ProductData.resources
